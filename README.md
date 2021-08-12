@@ -4,6 +4,8 @@
     <img src="https://i.imgur.com/o1R42Yc.gif" alt="screenshot of quiz about me">
 </div>
 
+## About
+
 This is a basic CLI quiz in JavaScript about "How well do you know me?"
 
 This quiz was built during `levelZero` of [neogcamp](https://neog.camp) to understand the basics of JavaScript.
